@@ -1,16 +1,19 @@
-# Cube-Runner-3D
+# Cube Runner
 A Simple 3D cube runner game using Unity Engine, C#, Animation, UI.
-Cube Runner 3D
-Cube Runner 3D is a level-based 3D runner game created in Unity. Guide your cube through challenging obstacle courses and reach the finish line to win each level!
+Cube Runner 
+Cube Runner  is a level-based 3D runner game created in Unity. Guide your cube through challenging obstacle courses and reach the finish line to win each level!
 
 **Features:**
-Multiple designed levels with increasing difficulty
+Classic Runner Gameplay
+Enjoy intuitive left/right controls in a fast-paced, endless runner-style experience.
 
-Classic runner gameplay with simple controls (move left/right)
+Score Tracking & Level Completion
+Track your score and progress as you dodge obstacles and race toward the finish line.
 
-Score tracking and level completion
+Vibrant Visuals & Smooth Controls
+Immerse yourself in colorful graphics with fluid camera movement for a seamless gameplay experience.
 
-Colorful graphics and smooth camera controls
+
 
 **Screenshots**
 <img width="1919" height="1079" alt="Screenshot 2025-07-30 233743" src="https://github.com/user-attachments/assets/09507b6c-2e89-4e00-af76-9fc1f376aad8" />
@@ -27,6 +30,9 @@ Git (for version control)
 Visual Studio Code or any C# editor
 
 **How to Play**
-Use the arrow keys to move your cube left or right.
-Dodge the cubes of different colours.
-Reach the finish line to complete the level!
+
+Use Arrow Keys (← / →) to move your cube left or right.
+
+Avoid crashing into cubes of different colors.
+
+Make it to the Finish Line to complete the level!
