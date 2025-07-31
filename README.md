@@ -4,13 +4,14 @@ Cube Runner
 Cube Runner  is a level-based 3D runner game created in Unity. Guide your cube through challenging obstacle courses and reach the finish line to win each level!
 
 **Features:**
-Classic Runner Gameplay
-Enjoy intuitive left/right controls in a fast-paced, endless runner-style experience.
 
-Score Tracking & Level Completion
+• Classic Runner Gameplay
+  Enjoy intuitive left/right controls in a fast-paced, endless runner-style experience.
+
+• Score Tracking & Level Completion
 Track your score and progress as you dodge obstacles and race toward the finish line.
 
-Vibrant Visuals & Smooth Controls
+• Vibrant Visuals & Smooth Controls
 Immerse yourself in colorful graphics with fluid camera movement for a seamless gameplay experience.
 
 
